@@ -27,5 +27,5 @@ HP Asset Manager, HP Connect-it, HP Service Manager
 Other:
 Arduino, Software engineering, Bitalino
 
-Editors:
+Editors/IDEs:
 Vim*, Emacs, Visual Studio Code*, Netbeans, Eclipse, Visual Studio, Android Studio*, TextPad
